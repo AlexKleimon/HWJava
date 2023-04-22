@@ -1,0 +1,12 @@
+апр 22, 2023 6:19:35 PM HomeWork02.Task03 main
+INFO: 5 / 10 = 0
+апр 22, 2023 6:20:11 PM HomeWork02.Task03 main
+INFO: 5 + 2 = 7
+апр 22, 2023 6:20:54 PM HomeWork02.Task03 main
+INFO: 10 / 2 = 5
+апр 22, 2023 6:21:08 PM HomeWork02.Task03 main
+INFO: Вы делите на ноль!
+апр 22, 2023 6:21:25 PM HomeWork02.Task03 main
+INFO: 5 * 5 = 25
+апр 22, 2023 6:21:42 PM HomeWork02.Task03 main
+INFO: Повторите попытку! Список операторов: +, -, *, /
