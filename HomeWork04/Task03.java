@@ -59,6 +59,7 @@ public class Task03 {
             } else if (operation.equals("cancel")) {
                 result.removeLast();
                 System.out.println("Отмена последней операции...");
+                //проверка на наличие элементов в списке, если список пуст то выходим из цикла
                 if (result.isEmpty()) {
                     flag = false;
                     System.out.println("Запустите программу заново.");
